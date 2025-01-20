@@ -1,0 +1,23 @@
+/* Change background color of the entire page */
+body {
+    background-color: #f7f7f7 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Customize titles */
+h1 {
+    color: #c0c0c0;
+    text-align: center;
+}
+
+/* Customize legend text */
+.legend {
+    color: #ff6347;
+    font-weight: bold;
+}
+
+/* Customize scatter plot markers */
+.scatterplot-marker {
+    stroke: #000000;
+    stroke-width: 2;
+}

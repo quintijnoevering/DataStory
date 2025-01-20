@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:adms="http://www.w3.org/ns/adms#"
+   xmlns:dcat="http://www.w3.org/ns/dcat#"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:donl="https://data.overheid.nl/dcat.rdf#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:v="http://www.w3.org/2006/vcard/"
+>
+  <rdf:Description rdf:nodeID="dataset.10505-ns-wandelingen-en-ov-stappers.distribution.1">
+    <dct:title xml:lang="nl">website</dct:title>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+    <dct:description xml:lang="nl">Wandelrouteplanner: blauwe lijnen zijn NS-wandeltochten die niet samenlopen met een LAW of Streekpad</dct:description>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/a8a85e92-5c8b-4da5-aba1-ca0e0083475e.rdf"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/10505-ns-wandelingen-en-ov-stappers.rdf"/>
+    <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/html"/>
+    <dcat:accessURL rdf:resource="http://www.wandelnet.nl/wandelrouteplanner"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2024-03-14T14:07:10.820967</dct:issued>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <dct:license rdf:resource="http://standaarden.overheid.nl/owms/terms/licentieonbekend"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.overheid.nl/dataset/10505-ns-wandelingen-en-ov-stappers">
+    <dct:description xml:lang="nl">Bestaande NS wandeltochten, inclusief vervallen NS-wandelingen sinds 2008 (deze worden OV-stappers genoemd). Rond 1 april van elk jaar worden vier nieuwe NS-wandelingen toegevoegd.
+NS-wandelingen volgen grotendeels delen van het bestaande LAW-netwerk (inclusief Nationale Streekpaden).</dct:description>
+    <dcat:theme rdf:resource="http://standaarden.overheid.nl/owms/terms/Economie"/>
+    <dcat:keyword xml:lang="nl">ns-routes</dcat:keyword>
+    <dcat:keyword xml:lang="nl">ns-wandelingen</dcat:keyword>
+    <dct:title xml:lang="nl">NS-wandelingen en OV-stappers</dct:title>
+    <dcat:distribution rdf:nodeID="dataset.10505-ns-wandelingen-en-ov-stappers.distribution.1"/>
+    <dcat:keyword xml:lang="nl">ov-stappers</dcat:keyword>
+    <dcat:contactPoint rdf:nodeID="dataset.10505-ns-wandelingen-en-ov-stappers.contactPoint"/>
+    <donl:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
+    <adms:identifier rdf:resource="https://data.overheid.nl/data/dataset/10505-ns-wandelingen-en-ov-stappers"/>
+    <donl:status rdf:resource="http://data.overheid.nl/status/beschikbaar"/>
+    <dct:license rdf:resource="http://standaarden.overheid.nl/owms/terms/licentieonbekend"/>
+    <dcat:keyword xml:lang="nl">wandelen</dcat:keyword>
+    <donl:authority rdf:resource="http://data.overheid.nl/organisatie/stwanet"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/a8a85e92-5c8b-4da5-aba1-ca0e0083475e"/>
+    <donl:metadataLanguage rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dcat:keyword xml:lang="nl">wandelroutes</dcat:keyword>
+    <adms:identifier rdf:resource="https://data.overheid.nl/dataset/a8a85e92-5c8b-4da5-aba1-ca0e0083475e"/>
+    <adms:identifier rdf:resource="https://data.overheid.nl/data/dataset/a8a85e92-5c8b-4da5-aba1-ca0e0083475e"/>
+    <donl:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dcat:keyword xml:lang="nl">lange-afstandswandelroutes</dcat:keyword>
+    <adms:identifier rdf:resource="https://data.overheid.nl/dataset/10505-ns-wandelingen-en-ov-stappers"/>
+    <dcat:keyword xml:lang="nl">recreatie</dcat:keyword>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/10505-ns-wandelingen-en-ov-stappers"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2020-03-24T00:00:00</dct:modified>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Dataset"/>
+    <donl:publisher rdf:resource="http://data.overheid.nl/organisatie/stwanet"/>
+    <dcat:keyword xml:lang="nl">ns-wandeltochten</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2009-02-12T00:00:00</dct:issued>
+    <donl:identifier rdf:resource="https://nationaalgeoregister.nl/geonetwork?uuid=9d79102d-bd0f-4abf-b153-6f0e17ea52e5"/>
+    <dcat:keyword xml:lang="nl">law</dcat:keyword>
+    <dcat:keyword xml:lang="nl">wandelingen</dcat:keyword>
+    <donl:sourceCatalog rdf:resource="https://nationaalgeoregister.nl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://standaarden.overheid.nl/owms/terms/licentieonbekend">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#License"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.overheid.nl/dataset/a8a85e92-5c8b-4da5-aba1-ca0e0083475e">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#CatalogRecord"/>
+    <foaf:primaryTopic rdf:resource="https://data.overheid.nl/dataset/10505-ns-wandelingen-en-ov-stappers"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2020-04-02T17:35:40.131995</dct:issued>
+    <adms:status xml:lang="nl">:updated</adms:status>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/a8a85e92-5c8b-4da5-aba1-ca0e0083475e.rdf"/>
+    <dct:title xml:lang="nl">10505-ns-wandelingen-en-ov-stappers</dct:title>
+    <dct:description xml:lang="nl">Bestaande NS wandeltochten, inclusief vervallen NS-wandelingen sinds 2008 (deze worden OV-stappers genoemd). Rond 1 april van elk jaar worden vier nieuwe NS-wandelingen toegevoegd.
+NS-wandelingen volgen grotendeels delen van het bestaande LAW-netwerk (inclusief Nationale Streekpaden).</dct:description>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/10505-ns-wandelingen-en-ov-stappers.rdf"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2024-03-14T14:07:10.091307</dct:modified>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.10505-ns-wandelingen-en-ov-stappers.contactPoint">
+    <v:tel xml:lang="nl">033-4653660</v:tel>
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/Kind"/>
+    <v:email rdf:resource="mailto:jrietman@wandelnet.nl"/>
+    <v:fn xml:lang="nl">Stichting Wandelnet</v:fn>
+    <v:web rdf:resource="https://www.wandelnet.nl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.iana.org/assignments/media-types/text/html">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Mediatype"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.overheid.nl/organisatie/stwanet">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Organization"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://standaarden.overheid.nl/owms/terms/Economie">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="http://standaarden.overheid.nl/owms/terms/Thema"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nationaalgeoregister.nl">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Format"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/access-right/RESTRICTED">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#OpenbaarheidsNiveau"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/language/NLD">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.overheid.nl/status/beschikbaar">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#DatasetStatus"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+</rdf:RDF>
